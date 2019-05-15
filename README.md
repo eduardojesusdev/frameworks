@@ -1,7 +1,7 @@
 # frameworks
 
 Cartão de crédito:
-https://github.com/jessepollak/card
+- https://github.com/jessepollak/card
 
 Gestos mobile:
 https://hammerjs.github.io/
