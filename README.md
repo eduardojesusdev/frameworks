@@ -1,32 +1,32 @@
 # frameworks
 
-Cartão de crédito:
+## Cartão de crédito:
 - https://github.com/jessepollak/card
 
-Gestos mobile:
+## Gestos mobile:
 - https://hammerjs.github.io/
 
-Grid layout:
+## Grid layout:
 - https://masonry.desandro.com/
 
-Mapa:
+## Mapa:
 - https://leafletjs.com
 
-Slides:
+## Slides:
 - http://idangero.us/swiper/api/
 
-Animações:
+## Animações:
 - https://daneden.github.io/animate.css/
 - https://wowjs.uk/
 
-Menu mobile:
+## Menu mobile:
 - https://github.com/jachinte/jquery.secretnav 
 
-Tooltips:
+## Tooltips:
 - https://atomiks.github.io/tippyjs/
 
-Upload:
+## Upload:
 - https://github.com/shabuninil/fileup   
 
-Notificações:
+## Notificações:
 - https://www.polonel.com/snackbar/
