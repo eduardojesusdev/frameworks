@@ -4,29 +4,29 @@ Cartão de crédito:
 - https://github.com/jessepollak/card
 
 Gestos mobile:
-https://hammerjs.github.io/
+- https://hammerjs.github.io/
 
 Grid layout:
-https://masonry.desandro.com/
+- https://masonry.desandro.com/
 
 Mapa:
-https://leafletjs.com
+- https://leafletjs.com
 
 Slides:
-http://idangero.us/swiper/api/
+- http://idangero.us/swiper/api/
 
 Animações:
-https://daneden.github.io/animate.css/
-https://wowjs.uk/
+- https://daneden.github.io/animate.css/
+- https://wowjs.uk/
 
 Menu mobile:
-https://github.com/jachinte/jquery.secretnav 
+- https://github.com/jachinte/jquery.secretnav 
 
 Tooltips:
-https://atomiks.github.io/tippyjs/
+- https://atomiks.github.io/tippyjs/
 
 Upload:
-https://github.com/shabuninil/fileup   
+- https://github.com/shabuninil/fileup   
 
 Notificações:
-https://www.polonel.com/snackbar/
+- https://www.polonel.com/snackbar/
