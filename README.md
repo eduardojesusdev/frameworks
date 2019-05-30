@@ -30,3 +30,6 @@
 
 ## Notificações:
 - https://www.polonel.com/snackbar/
+
+## Digitar automaticamente:
+- https://typeitjs.com/
