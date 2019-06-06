@@ -18,6 +18,7 @@
 ## Animações:
 - https://daneden.github.io/animate.css/
 - https://wowjs.uk/
+- http://bouncejs.com   
 
 ## Menu mobile:
 - https://github.com/jachinte/jquery.secretnav 
@@ -33,3 +34,4 @@
 
 ## Digitar automaticamente:
 - https://typeitjs.com/
+
